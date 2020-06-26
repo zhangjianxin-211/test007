@@ -10,3 +10,8 @@ def fun1(a, b):
 
 fun1(100, 50)
 
+
+class Students(objects):
+    def eat():
+        pass
+
